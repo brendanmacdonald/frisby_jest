@@ -1,0 +1,13 @@
+{
+    "name": "frisby_tests",
+    "version": "0.1.0",
+    "scripts": {
+        "test": "jest",
+        "mock": "json-server mockEndpoint/customers.json"
+    },
+    "devDependencies": {
+        "faker": "^4.1.0",
+        "frisby": "^2.0.15",
+        "jest": "^22.4.3"
+    }
+}

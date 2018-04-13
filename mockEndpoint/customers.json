@@ -1,0 +1,178 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Smith",
+      "phone": "219-839-2819"
+    },
+    {
+      "first_name": "Elsie",
+      "last_name": "Boyer",
+      "phone": "(892) 264-8167 x8907",
+      "id": 2
+    },
+    {
+      "first_name": "Jade",
+      "last_name": "Koelpin",
+      "phone": "947-353-2396",
+      "id": 3
+    },
+    {
+      "first_name": "Abbigail",
+      "last_name": "Wolff",
+      "phone": "(341) 482-2377 x598",
+      "id": 4
+    },
+    {
+      "first_name": "Scot",
+      "last_name": "Hickle",
+      "phone": "627-167-2731 x61198",
+      "id": 5
+    },
+    {
+      "first_name": "Tremayne",
+      "last_name": "Hayes",
+      "phone": "407-368-7596 x640",
+      "id": 6
+    },
+    {
+      "first_name": "Amelia",
+      "last_name": "Swaniawski",
+      "phone": "(245) 433-4256",
+      "id": 7
+    },
+    {
+      "first_name": "Lafayette",
+      "last_name": "Beer",
+      "phone": "297-392-9587 x946",
+      "id": 8
+    },
+    {
+      "first_name": "Burnice",
+      "last_name": "Waters",
+      "phone": "970.350.2653 x2898",
+      "id": 9
+    },
+    {
+      "first_name": "Anderson",
+      "last_name": "Kris",
+      "phone": "457.410.5705 x166",
+      "id": 10
+    },
+    {
+      "first_name": "Keyon",
+      "last_name": "Adams",
+      "phone": "(822) 732-0654 x3137",
+      "id": 11
+    },
+    {
+      "first_name": "Darron",
+      "last_name": "Ortiz",
+      "phone": "1-951-144-3655",
+      "id": 12
+    },
+    {
+      "first_name": "Reagan",
+      "last_name": "Stehr",
+      "phone": "1-015-478-6322 x02115",
+      "id": 13
+    },
+    {
+      "first_name": "Cydney",
+      "last_name": "Champlin",
+      "phone": "(119) 464-6583 x62376",
+      "id": 14
+    },
+    {
+      "first_name": "Lois",
+      "last_name": "Bartell",
+      "phone": "411.132.9499",
+      "id": 15
+    },
+    {
+      "first_name": "Mason",
+      "last_name": "Davis",
+      "phone": "(167) 827-9061 x43638",
+      "id": 16
+    },
+    {
+      "first_name": "Stephanie",
+      "last_name": "Roob",
+      "phone": "1-836-491-9153 x518",
+      "id": 17
+    },
+    {
+      "first_name": "Sanford",
+      "last_name": "Gusikowski",
+      "phone": "1-095-468-1012 x8269",
+      "id": 18
+    },
+    {
+      "first_name": "Elyse",
+      "last_name": "Carroll",
+      "phone": "736-171-4077 x828",
+      "id": 19
+    },
+    {
+      "first_name": "Kane",
+      "last_name": "Prohaska",
+      "phone": "1-807-477-9122",
+      "id": 20
+    },
+    {
+      "first_name": "Josephine",
+      "last_name": "Hamill",
+      "phone": "449-553-4859 x3836",
+      "id": 21
+    },
+    {
+      "first_name": "Davion",
+      "last_name": "Jaskolski",
+      "phone": "1-466-359-0814",
+      "id": 22
+    },
+    {
+      "first_name": "Trevion",
+      "last_name": "Wiegand",
+      "phone": "344-326-7845 x3926",
+      "id": 23
+    },
+    {
+      "first_name": "Yessenia",
+      "last_name": "Kerluke",
+      "phone": "384.397.6950 x5682",
+      "id": 24
+    },
+    {
+      "first_name": "Tiara",
+      "last_name": "Carroll",
+      "phone": "536.011.2606 x01585",
+      "id": 25
+    },
+    {
+      "first_name": "Brandy",
+      "last_name": "Wehner",
+      "phone": "(925) 994-3788 x077",
+      "id": 26
+    },
+    {
+      "first_name": "Chadrick",
+      "last_name": "Feeney",
+      "phone": "066-389-2214",
+      "id": 27
+    },
+    {
+      "first_name": "Stuart",
+      "last_name": "Morissette",
+      "phone": "(670) 200-6234",
+      "id": 28
+    },
+    {
+      "first_name": "Sydney",
+      "last_name": "McDermott",
+      "phone": "1-932-298-1376 x38333",
+      "id": 29
+    }
+  ]
+}
