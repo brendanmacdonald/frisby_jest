@@ -1,6 +1,6 @@
 Run the following to install the necessary apps:
 ```
-npm install frisby jest json-server faker --save-dev
+npm install
 ```
 
 The frisby tests are executed against a local server.
