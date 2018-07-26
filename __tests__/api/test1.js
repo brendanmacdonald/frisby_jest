@@ -19,11 +19,10 @@ describe('Simple GET request using Frisby, with Jest assertions', () => {
             phone: '219-839-2819'
         };
 
-        const data = await frisby.get(url + '1')
+        const data = await frisby.get(url)
         expect(data).toBeDefined();
         expect(data.status).toEqual(200);
-        expect(data._json).toEqual(customerOne);
-        expect(data._json.first_name)
+        expect(data._json).toContainEqual(customerOne);
     })
 });
 
@@ -56,7 +55,7 @@ describe('POST request using Frisby, with Jest assertions', () => {
 });
 
 describe('POST request using Frisby, with Jasmine assertions', () => {
-    it('POST against a mock endpoint', (done) => {
+    it('POST against a mock endpoint', () => {
         frisby
             .post(url, {
                 body: {
@@ -79,6 +78,5 @@ describe('POST request using Frisby, with Jasmine assertions', () => {
                     .expect('json', 'last_name', customer.lastName)
                     .expect('json', 'phone', customer.phoneNumber)
             })
-            .done(done);
     });
 });
