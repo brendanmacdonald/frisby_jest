@@ -3,11 +3,12 @@
     "version": "0.1.0",
     "scripts": {
         "test": "jest",
-        "mock": "json-server mockEndpoint/customers.json"
+        "mock": "json-server mockEndpoint\\customers.json"
     },
     "devDependencies": {
         "faker": "^4.1.0",
         "frisby": "^2.0.15",
-        "jest": "^23.4.1"
+        "jest": "^23.4.1",
+        "json-server": "^0.12.1"
     }
 }
